@@ -1,5 +1,5 @@
 application: hale-inn-212
-version: cr3
+version: Jan15a
 runtime: python27
 api_version: 1
 threadsafe: true
